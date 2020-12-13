@@ -22,7 +22,7 @@
 
 ## Find me elsewhere 📫
 <p align="left">
-  <a href="www.linkedin.com/in/bar-gutierrez-15s89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/bar-gutierrez-15s89" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bar-gutierrez-15s89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/bar-gutierrez-15s89" height="30" width="40" /></a>
   <a href="mailto:barbara@gael.team"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt="email" height="30" width="40"/></a>
 </p>
 
