@@ -8,7 +8,7 @@
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" /> </a>
     <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-8-1175153.png" alt="jquery" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40" /> </a>
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img2.freepng.es/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" alt="css3" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="40" height="40" /> </a>
