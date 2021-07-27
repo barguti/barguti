@@ -14,8 +14,8 @@
     <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="40" height="40" /> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="express" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40" /> </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql" width="40" height="40" /> </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="mssql" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="mysql" width="40" height="40" /> </a>
     <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
       <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40" /> </a>
     <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /> </a>
