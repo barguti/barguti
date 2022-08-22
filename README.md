@@ -1,7 +1,7 @@
 <p align='center'><img src='https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif' /></p>
 <h2 align='center'>Hello There! 👋 </h2>
 
-<p align='center'>I'm Bárbara Gutiérrez, a <b>Front End Web Developer</b> (Level 4 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
+<p align='center'>I'm Bárbara Gutiérrez, a <b>Front End Web Developer</b> (Level 5 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
 
 ## About me in Code 💻
 <h4 align="left">Programming Languages | Tools | Other:</h4>
@@ -21,7 +21,7 @@
     <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40" /> </a>
     <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vs19" width="40" height="40" /> </a>
-    <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="terminal" width="40" height="40" /> </a>
+    <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" alt="terminal" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" /> </a>
     <a href="https://www.mozilla.org/es-CL/firefox/new/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox" width="40" height="40" /> </a>
