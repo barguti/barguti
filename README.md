@@ -34,6 +34,3 @@
   <a href="https://www.linkedin.com/in/barbguti-15s89" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-HD-Isolated.png" alt="www.linkedin.com/in/bar-gutierrez-15s89" height="30" width="30" /></a>
   <a href="mailto:bar.gutierrez.r@gmail.com"><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png' alt="email" height="30" width="40"/></a>
 </p>
-
-
-[![barguti's github stats](https://github-readme-stats.vercel.app/api?username=barguti&count_private=true&show_icons=true&theme=gotham)](https://github.com/barguti/github-readme-stats)
