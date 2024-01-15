@@ -32,5 +32,5 @@
 ## Find me elsewhere 📫
 <p align="left">
   <a href="https://www.linkedin.com/in/barbguti-15s89" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-HD-Isolated.png" alt="www.linkedin.com/in/bar-gutierrez-15s89" height="30" width="30" /></a>
-  <a href="mailto:bar.gutierrez.r@gmail.com"><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png' alt="email" height="30" width="40"/></a>
+  <a href="mailto:barbgutir@gmail.com"><img align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png' alt="email" height="30" width="40"/></a>
 </p>
