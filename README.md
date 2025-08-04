@@ -1,7 +1,7 @@
 <p align='center'><img src='https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif' /></p>
 <h2 align='center'>Hello There! 👋 </h2>
 
-<p align='center'>I'm Bárbara Gutiérrez, a <b>Frontend Web Developer</b> (Level 7 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
+<p align='center'>I'm Bárbara Gutiérrez, a <b>Frontend Web Developer</b> (Level 8 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
 
 ## About me in Code 💻
 <h4 align="left">Programming Languages | Tools | Other:</h4>
