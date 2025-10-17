@@ -1,7 +1,7 @@
 <p align='center'><img src='https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif' /></p>
 <h2 align='center'>Hello There! 👋 </h2>
 
-<p align='center'>I'm Bárbara Gutiérrez, a <b>Frontend Web Developer</b> (Level 8 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
+<p align='center'>I'm Bárbara Gutiérrez, a <b>Frontend Developer</b> (Level 8 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
 
 # 👩‍💻 About Me
 
@@ -15,8 +15,7 @@ I enjoy learning new technologies, collaborating with other teams, and taking on
 
 ---
 
-## About me in Code 💻
-<h4 align="left">Programming Languages | Tools | Other:</h4>
+## Programming Languages | Tools | Other 💻
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" />
     <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-8-1175153.png" alt="jquery" width="40" height="40" />
