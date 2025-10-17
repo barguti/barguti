@@ -3,12 +3,24 @@
 
 <p align='center'>I'm Bárbara Gutiérrez, a <b>Frontend Web Developer</b> (Level 8 😅) from <a href='https://github.com/blackysoft'>Blackysoft SPA</a> in Chile </p>
 
+# 👩‍💻 About Me
+
+I'm a **Frontend Developer** with experience in creating functional, user-centered web interfaces.
+
+I mainly work with **JavaScript (jQuery)**, **CSS**, **HTML**, and **ASP.NET Core**, and also use **Node.js** and **Express.js** to integrate APIs and improve server-side performance.
+
+I'm interested in both code and user experience — that's why I use **Figma** to bridge design and development in a consistent way.
+
+I enjoy learning new technologies, collaborating with other teams, and taking on challenges that help me grow as a professional.
+
+---
+
 ## About me in Code 💻
 <h4 align="left">Programming Languages | Tools | Other:</h4>
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" />
     <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-8-1175153.png" alt="jquery" width="40" height="40" />
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40" />
     <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="css3" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="40" height="40" />
