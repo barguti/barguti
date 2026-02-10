@@ -29,14 +29,7 @@ He trabajado en el desarrollo y evolución de aplicaciones web en producción, i
 - ASP.NET Core  
 - Bases de datos SQL (MySQL, SQL Server)  
 - Docker  
-- Git  
-
----
-
-## 📫 Contacto
-
-- LinkedIn: <a href="https://www.linkedin.com/in/barbguti-15s89" target="blank"> 💼 </a>
-- Email: <a href="mailto:barbgutir@gmail.com"> 📧 </a>
+- Git
 
 ---
 
@@ -71,11 +64,6 @@ I've worked on the development and evolution of production web applications, int
 - ASP.NET Core  
 - SQL databases (MySQL, SQL Server)  
 - Docker  
-- Git  
+- Git
 
 ---
-
-## 📫 Contact
-
-- LinkedIn: <a href="https://www.linkedin.com/in/barbguti-15s89" target="blank"> 💼 </a>
-- Email: <a href="mailto:barbgutir@gmail.com"> 📧 </a>
