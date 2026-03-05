@@ -24,12 +24,25 @@ He trabajado en el desarrollo y evolución de aplicaciones web en producción, i
 
 **Tecnologías con las que trabajo habitualmente:**
 - JavaScript (especialmente JQuery) / TypeScript  
-- HTML, CSS  
+- HTML, CSS
+- Kendo Telerik
 - Node.js, Express  
 - ASP.NET Core  
 - Bases de datos SQL (MySQL, SQL Server)  
 - Docker  
 - Git
+
+---
+
+## Conocimientos Tecnológicos en Evolución
+Tecnologías en las que actualmente estoy profundizando y expandiendo mi stack profesional:
+- React
+- Angular
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Java
+- Spring Boot
 
 ---
 
@@ -59,11 +72,23 @@ I've worked on the development and evolution of production web applications, int
 
 **Technologies I frequently work with:**
 - JavaScript (especially JQuery) / TypeScript  
-- HTML, CSS  
+- HTML, CSS
+- Kendo Telerik
 - Node.js, Express  
 - ASP.NET Core  
 - SQL databases (MySQL, SQL Server)  
 - Docker  
 - Git
 
+---
+
+## Evolving Technology Stack
+Technologies I am currently deepening my knowledge in as part of my professional growth:
+- React
+- Angular
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Java
+- Spring Boot
 ---
