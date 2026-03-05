@@ -38,6 +38,7 @@ He trabajado en el desarrollo y evolución de aplicaciones web en producción, i
 Tecnologías en las que actualmente estoy profundizando y expandiendo mi stack profesional:
 - React
 - Angular
+- Python
 - TypeScript
 - Next.js
 - Tailwind CSS
@@ -86,6 +87,7 @@ I've worked on the development and evolution of production web applications, int
 Technologies I am currently deepening my knowledge in as part of my professional growth:
 - React
 - Angular
+- Python
 - TypeScript
 - Next.js
 - Tailwind CSS
